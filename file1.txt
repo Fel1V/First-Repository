@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world!!!
+=======
+file1
+goodbye
+>>>>>>> 3709c5788e532580c018e0adb66db6ec6d57aab0
