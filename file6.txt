@@ -1,1 +1,2 @@
 file6
+line from user2
